@@ -1,0 +1,6 @@
+Hi everyone
+we are learning file I\O
+using python.
+like programming in python.
+
+5, 56, 4, 48, 2, 21, 3
